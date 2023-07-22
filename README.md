@@ -1,2 +1,2 @@
 # confdebian
-Configuraciones paqutes Debian 
+Configuraciones paquetes Debian 
