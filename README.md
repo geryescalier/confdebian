@@ -1,2 +1,2 @@
-# confdebian11
+# confdebian
 Configuraciones Debian 11
